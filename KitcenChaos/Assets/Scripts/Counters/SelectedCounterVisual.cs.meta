@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 912b81b54a7129f4fbabc58778cd5bc6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - clearCounter: {fileID: 4282650245215500166, guid: 0004cb1e11ad014419b943c7da960724, type: 3}
+  - visualGameObject: {fileID: 4589716710238282922, guid: 0004cb1e11ad014419b943c7da960724, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
